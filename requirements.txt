@@ -1,1 +1,3 @@
 nltk
+# urllib2
+bs4
